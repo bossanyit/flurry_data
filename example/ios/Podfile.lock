@@ -1,0 +1,29 @@
+PODS:
+  - Flurry-iOS-SDK/FlurrySDK (11.2.1)
+  - flurry_data (0.0.1):
+    - Flurry-iOS-SDK/FlurrySDK
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - flurry_data (from `.symlinks/plugins/flurry_data/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - Flurry-iOS-SDK
+
+EXTERNAL SOURCES:
+  flurry_data:
+    :path: ".symlinks/plugins/flurry_data/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Flurry-iOS-SDK: 5831da8fc6bedb31fa1f94aac6fd204d36dd351d
+  flurry_data: 49b7066a283aa41f4306974c1f2d74c61231ad74
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: 77fcfdd2d3359f902d71643edcba6d372f1a4eda
+
+COCOAPODS: 1.10.1
