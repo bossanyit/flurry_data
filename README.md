@@ -2,6 +2,8 @@
 A Null-Safe Flutter plugin to use Flurry Analytics.
 This plugin logs events, sessions, userId
 
+DISCONTINUED since Flurry does not support events in the Mobile App
+
 ## Getting Started
 
 This is a Flutter plugin to use Flurry Analytics. It implements native calls to [Flurry Android SDK][flurry_sdk_android] and [Flurry iOS SDK][flurry_sdk_ios]. The plugin logs sessions, crash detections, simple event logging, and UserId.
